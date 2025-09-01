@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Jamie!
+
+- Primarily a Go programmer, because I love the simplicity of the language!
+- Always looking to try new things and expand my knowledge, and I'd love to eventually try my hand at programming some embedded systems!
 
 <!--
 **jms-guy/jms-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
