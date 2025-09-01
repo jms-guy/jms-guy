@@ -1,7 +1,11 @@
 ## Hi, I'm Jamie!
 
-- Primarily a Go programmer, because I love the simplicity of the language!
+- Primarily a Go developer, because I love the simplicity of the language!
+- Currently seeking a backend role
 - Always looking to try new things and expand my knowledge, and I'd love to eventually try my hand at programming some embedded systems!
+
+**Check out my main project:** [**GREED**](https://github.com/jms-guy/greed) — A financial application with Plaid integration.
+
 
 <!--
 **jms-guy/jms-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
