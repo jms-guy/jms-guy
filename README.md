@@ -4,7 +4,7 @@
 - Currently seeking a backend role
 - Always looking to try new things and expand my knowledge, and I'd love to eventually try my hand at programming some embedded systems!
 
-**Check out my main project:** [**GREED**](https://github.com/jms-guy/greed) — A financial application with Plaid integration.
+
 
 
 <!--
